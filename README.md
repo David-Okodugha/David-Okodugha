@@ -1,16 +1,14 @@
-## Hi there 👋
+# **Hello World!**🌍
+My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at the esteemed Holy Trinity Catholic High School. I take the ICD2O(Computer studies course), and I currently have an 88 in this course
 
-<!--
-**David-Okodugha/David-Okodugha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️**Programming Languages**
+- Python
+- JavaScript
+- CSS/HTML
 
-Here are some ideas to get you started:
+### ⚙️**Poerating Systems**
+- Windows
+- ChromeOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⛏️** Tools:**
+- 
