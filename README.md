@@ -25,29 +25,29 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    [Ricos Pizzeria]([url](https://colab.research.google.com/drive/1iOyNv-Ft8Qg8A0sTKy2xEcy9oZDedlv8?usp=sharing))
 
-   2. 3 by 3 Minesweeper grid validator
+2. 3 by 3 Minesweeper grid validator
 
-      If you know Minesweeper, this code checks if the number in the middle of the grid matches the number of bombs in the grid. In the code, (-1) represents the bombs
+   If you know Minesweeper, this code checks if the number in the middle of the grid matches the number of bombs in the grid. In the code, (-1) represents the bombs
 
       For this one, I used def, if statements, and loops to create this validator
 
        [Minesweeper]([url](https://colab.research.google.com/drive/1RKDVEYn7ljnAlGtjsLGhIpQ_vUwJtQUT))
 
-   3. Random App
-      An app with 4 different functions(This was my favorite project to work on, also my most frustrating
+3. Random App
+   An app with 4 different functions(This was my favorite project to work on, also my most frustrating
 
-      I used a lot of booleans like(if, else, elif, not, and, and or) to create validators for falsy inputs
-      I also used multiple lists to store information for further use
-      and math importations
+   I used a lot of booleans like(if, else, elif, not, and, and or) to create validators for falsy inputs
+   I also used multiple lists to store information for further use
+   and math importations
 
-      [Random Apps]([url](https://colab.research.google.com/drive/1eoK_OeNbDVNuyg3TFjVlFy2MG_dB6PRy))
+    [Random Apps]([url](https://colab.research.google.com/drive/1eoK_OeNbDVNuyg3TFjVlFy2MG_dB6PRy))
 
-   4. grade checker
+4. grade checker
 
-      It's exactly what it sounds like
+   It's exactly what it sounds like
 
-       simple math functions (x) and if statements, and booleans
+   simple math functions (x) and if statements, and booleans
 
-      [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
+   [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
 
-   5. 
+5. 
