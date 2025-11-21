@@ -31,7 +31,7 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
       For this one, I used def, if statements, and loops to create this validator
 
-       [Minesweeper]([url](https://colab.research.google.com/drive/1RKDVEYn7ljnAlGtjsLGhIpQ_vUwJtQUT))
+       [Minesweeper](https://colab.research.google.com/drive/1RKDVEYn7ljnAlGtjsLGhIpQ_vUwJtQUT)
 
 3. Random App
    An app with 4 different functions(This was my favorite project to work on, also my most frustrating
@@ -40,7 +40,7 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
    I also used multiple lists to store information for further use
    and math importations
 
-    [Random Apps]([url](https://colab.research.google.com/drive/1eoK_OeNbDVNuyg3TFjVlFy2MG_dB6PRy))
+    [Random Apps](https://colab.research.google.com/drive/1eoK_OeNbDVNuyg3TFjVlFy2MG_dB6PRy)
 
 4. grade checker
 
@@ -48,7 +48,7 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    simple math functions (x) and if statements, and booleans
 
-   [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
+   [GC](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE)
 
 5. Travel Guide
 
@@ -56,7 +56,7 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    I used CSS, JavaScript, and HTML
 
-   TG
+   [TG](https://github.com/David-Okodugha/ICDE2O))
 
 6. Loop A
 
@@ -64,5 +64,5 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    I used a simple while loop that went around 6 times
 
-   A Loop
+   [A Loop](https://colab.research.google.com/drive/1QO-dZ2qpGxzx6WOeR4v5QLlIQHnsZEW4)
    
