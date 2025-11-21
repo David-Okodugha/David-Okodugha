@@ -50,4 +50,19 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
 
-5. 
+5. Travel Guide
+
+   a travel guide website in Italy
+
+   I used CSS, JavaScript, and HTML
+
+   TG
+
+6. Loop A
+
+   This is a loop of the letter A in right-angle triangle formation(this may sound dumb, but I am incredibly proud of this code; it's the simpler things in life that truly matter)
+
+   I used a simple while loop that went around 6 times
+
+   A Loop
+   
