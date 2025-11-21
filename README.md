@@ -23,7 +23,7 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
    To make this work, I had to use multiple lists and loops inside loops, and if statements
 
-   [Ricos Pizzeria]([url](https://colab.research.google.com/drive/1iOyNv-Ft8Qg8A0sTKy2xEcy9oZDedlv8?usp=sharing))
+   [Ricos Pizzeria](https://colab.research.google.com/drive/1iOyNv-Ft8Qg8A0sTKy2xEcy9oZDedlv8?usp=sharing)
 
 2. 3 by 3 Minesweeper grid validator
 
