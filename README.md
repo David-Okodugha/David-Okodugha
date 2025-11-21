@@ -42,12 +42,12 @@ My name is David Okodugha, I'm a proud Jamaican, and I am currently a student at
 
       [Random Apps]([url](https://colab.research.google.com/drive/1eoK_OeNbDVNuyg3TFjVlFy2MG_dB6PRy))
 
-      4. grade checker
+   4. grade checker
 
-         It's exactly what it sounds like
+      It's exactly what it sounds like
 
-         simple math functions (x) and if statements, and booleans
+       simple math functions (x) and if statements, and booleans
 
-          [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
+      [GC]([url](https://colab.research.google.com/drive/1L3AyAYsn7n2i_Wr67Pkn5SyEfkvcD5HE))
 
-      5. 
+   5. 
